@@ -44,7 +44,7 @@ div.header, div.rules{
 }
 .userTotal{
 	width: 15%;
-	height: 60px;
+	height: 80px;
 }
 .gems{
 	clear: both;
@@ -55,14 +55,14 @@ div.header, div.rules{
 }
 /* IDs */
 #blue{
-	color: #3092c7;
+	color: #3058c7;
 }
 #green{
-	color: #00aa59;
+	color: #077a42;
 }
 #red{
-	color: #ec4b5f;
+	color: #c90f0f;
 }
 #yellow{
-	color: #ffc225;
+	color: #eed603;
 }
